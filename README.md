@@ -1,6 +1,14 @@
 # skyvantage---hypixel-skyblock-mod
 skyvantage is a mod that me and some friends made to supplement some other features which can't be found in other mods right now. 
 
+how to download?
+you download the zip file and extract it.
+open the skyvantage file and let it install.
+open minecraft and select the version name "skyvantage 1.8.9" 
+you have succesfuly downloaded skyvantage enjoy!
+
+
+
 Some of the features:
 
 Dungeons Score Calculation (Faster than SBE assuming same ping)
